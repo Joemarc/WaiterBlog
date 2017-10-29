@@ -1,0 +1,8 @@
+{
+	"primary-color": "#c8a76c",
+	"header": "vertical",
+	"site_width": "full-width",
+	"top-bar": false,
+	"products_hover": "link",
+	"sticky_footer": true
+}

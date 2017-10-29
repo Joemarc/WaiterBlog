@@ -1,0 +1,14 @@
+{
+	"top-bar": false,
+	"products_hover": "quick",
+	"primary-color": "#d35024",
+	"site_width": "full-width",
+	"right_column_width": "270",
+	"header-border": false,
+	"header": "simple",
+	"top-bar-bg": {
+		"background-color": "#d35024"
+	},
+	"header_full_width": false,
+	"menu_align": "center"
+}
